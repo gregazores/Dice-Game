@@ -1,2 +1,0 @@
-# Greg-CV
-Greg Resume
